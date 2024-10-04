@@ -12,7 +12,7 @@ CREATE TABLE IF NOT EXISTS orders_1NF (
 );
 
 -- inserting the original data:
-INSERT INTO orders_1NF (order_number, product_name, product_quantity, customer_address, order_date, customer_name)
+INSERT IGNORE INTO orders_1NF (order_number, product_name, product_quantity, customer_address, order_date, customer_name)
 VALUES
     (101, 'Laptop', 3, 'Хрещатик 1', '2023-03-15', 'Мельник'),
     (101, 'Mouse', 2, 'Хрещатик 1', '2023-03-15', 'Мельник'),

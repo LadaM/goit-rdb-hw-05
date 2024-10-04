@@ -18,14 +18,14 @@ CREATE TABLE IF NOT EXISTS order_details_2NF (
 );
 
 -- inserting original data into orders table
-INSERT INTO orders_2NF (order_number, customer_address, order_date, customer_name)
+INSERT IGNORE INTO orders_2NF (order_number, customer_address, order_date, customer_name)
 VALUES
     (101, 'Хрещатик 1', '2023-03-15', 'Мельник'),
     (102, 'Басейна 2', '2023-03-16', 'Шевченко'),
     (103, 'Комп’ютерна 3', '2023-03-17', 'Коваленко');
 
 -- inserting original data into order details table
-INSERT INTO order_details_2NF (order_number, product_name, product_quantity)
+INSERT IGNORE INTO order_details_2NF (order_number, product_name, product_quantity)
 VALUES
     (101, 'Laptop', 3),
     (101, 'Mouse', 2),
