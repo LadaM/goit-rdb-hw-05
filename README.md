@@ -30,3 +30,4 @@ Relational Databases Course Homeworks:
   * task-5
     * sql script
     * screenshot of results
+* hw-04
