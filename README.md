@@ -15,3 +15,18 @@ Relational Databases Course Homeworks:
     - transforming tables to 2nd normal form (`transform_to_2nf.sql`)
     - transforming tables to 3rd normals form (`transform_to_3nf.sql`)
 * hw-03
+  * task-1
+    * sql scripts
+    * screenshots of results
+  * task-2
+    * sql script
+    * screenshot of results
+  * task-3
+    * sql script
+    * screenshot of results
+  * task-4
+    * sql script
+    * screenshot of results
+  * task-5
+    * sql script
+    * screenshot of results
