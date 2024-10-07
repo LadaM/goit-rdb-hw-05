@@ -31,3 +31,13 @@ Relational Databases Course Homeworks:
     * sql script
     * screenshot of results
 * hw-04
+  * task-1
+    * sql script for creating schema and tables
+    * ER-diagram of `LibraryManagement` schema
+  * task-2
+    * sql script for inserting values into `LibraryManagement`
+  * task-3
+    * sql query for joining all tables from `topic_3` schema
+    * result of join in Markdown format
+  * task-4
+    * sql queries and screenshots for every subtask
