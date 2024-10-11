@@ -1,4 +1,4 @@
-# goit-rdb-hw-03
+# goit-rdb-hw-05
 
 Relational Databases Course Homeworks:
 * HW Topic 2 - DB Design, ER-Diagrams
