@@ -41,3 +41,24 @@ Relational Databases Course Homeworks:
     * result of join in Markdown format
   * task-4
     * sql queries and screenshots for every subtask
+* hw-05
+  * task-1
+    * `.sql` script
+    * screenshot `results.png`
+    * result of query execution `results.md`
+  * task-2
+    * `.sql` script
+    * screenshot `results.png`
+    * result of query execution `results.md`
+  * task-3
+    * `.sql` script
+    * screenshot `results.png`
+    * result of query execution `results.md`
+  * task-4
+    * `.sql` script
+    * screenshot `results.png`
+    * result of query execution `results.md`
+  * task-5
+    * `.sql` script
+    * screenshot `results.png`
+    * result of query execution `results.md`
