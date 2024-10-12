@@ -62,3 +62,23 @@ Relational Databases Course Homeworks:
     * `.sql` script
     * screenshot `results.png`
     * result of query execution `results.md`
+* hw-07
+  * task-1
+    * `.sql` script
+    * screenshot `results.png`
+    * result of query execution `results.md`
+  * task-2
+    * `.sql` script
+    * screenshot `results.png`
+    * result of query execution `results.md`
+  * task-3
+    * `.sql` script
+    * screenshot `results.png`
+    * result of query execution `results.md`
+  * task-4
+    * `.sql` script
+    * screenshot `result.png`
+  * task-5
+    * `.sql` script
+    * screenshot `results.png`
+    * result of query execution `results.md`
